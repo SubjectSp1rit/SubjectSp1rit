@@ -7,6 +7,8 @@
     <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="vk: subjectsp1rit"/>
   </a>
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=SubjectSp1rit&style=flat-square&color=blue" alt=""/>
 <!--
 **SubjectSp1rit/SubjectSp1rit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
