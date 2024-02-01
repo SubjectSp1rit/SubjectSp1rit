@@ -1,8 +1,12 @@
 ### Hi there 👋
 <div align="center"><p>Contacts</p></div>
 <div id="badges" align="center">
-  <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt=""/>
-  <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt=""/>
+  <a href="https://t.me/SubjectSpirit" target="_blank">
+    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt=""/>
+  </a>
+  <a href="https://vk.com/subjectsp1rit" target="_blank">
+    <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt=""/>
+  </a>
 </div>
 <!--
 **SubjectSp1rit/SubjectSp1rit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
