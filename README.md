@@ -10,7 +10,7 @@
 
 ---
 
-<h2>About me:</h2>
+### 👨‍💻 About me:
 Fullstack developer from Russia 
 <br>My own site: http://potyakin.ru
 <p><strong>Education: </strong>HSE FCS SE <small>'27</small> <small>(Higher School of Economics, Faculty of Computer Science, Software Engineering)</small></p>
