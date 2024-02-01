@@ -18,6 +18,10 @@ Fullstack developer from Russia
 ---
 
 ### 🛠️ Languages and Tools:
+<h1>Backend:</h1>
+<p>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
+</p>
 
 
 <img src="https://komarev.com/ghpvc/?username=SubjectSp1rit&style=flat-square&color=blue" alt=""/>
