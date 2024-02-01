@@ -1,4 +1,4 @@
-<div align="center"><h3>Contacts</h3></div>
+<div align="center"><h2>Contacts</h2></div>
 <div id="badges" align="center">
   <a href="https://t.me/SubjectSpirit">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="tg: @SubjectSpirit"/>
