@@ -48,7 +48,7 @@ Fullstack developer from Russia
 
 <h1>IDEs:</h1>
 <p>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.m.wikipedia.org%2Fwiki%2F%25D0%25A4%25D0%25B0%25D0%25B9%25D0%25BB%3APyCharm_Icon.svg&psig=AOvVaw3iWdAEw9AfnbjLyMc6ki_L&ust=1706912035356000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJj5sf6Ui4QDFQAAAAAdAAAAABAD" title="PyCharm"  alt="PyCharm" width="40" height="40"/>&nbsp;
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogowik.com%2Fpycharm-logo-vector-57326.html&psig=AOvVaw3iWdAEw9AfnbjLyMc6ki_L&ust=1706912035356000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJj5sf6Ui4QDFQAAAAAdAAAAABAH" title="PyCharm"  alt="PyCharm" width="40" height="40"/>&nbsp;
   <img src="" title=""  alt="" width="40" height="40"/>&nbsp;
   <img src="" title=""  alt="" width="40" height="40"/>&nbsp;
   <img src="" title=""  alt="" width="40" height="40"/>&nbsp;
