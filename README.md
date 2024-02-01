@@ -21,6 +21,12 @@ Fullstack developer from Russia
 <h1>Backend:</h1>
 <p>
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp"  alt="CSharp" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPLusplus"  alt="CPlusplus" width="40" height="40"/>&nbsp;
+   <img src="" title=""  alt="" width="40" height="40"/>&nbsp;
+   <img src="" title=""  alt="" width="40" height="40"/>&nbsp;
+   <img src="" title=""  alt="" width="40" height="40"/>&nbsp;
+   <img src="" title=""  alt="" width="40" height="40"/>&nbsp;
 </p>
 
 
