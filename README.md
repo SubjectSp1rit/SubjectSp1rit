@@ -46,16 +46,6 @@ Fullstack developer from Russia
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="PyQt5"  alt="PyQt5" width="40" height="40"/>&nbsp;
 </p>
 
-<h1>IDEs:</h1>
-<p>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogowik.com%2Fpycharm-logo-vector-57326.html&psig=AOvVaw3iWdAEw9AfnbjLyMc6ki_L&ust=1706912035356000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJj5sf6Ui4QDFQAAAAAdAAAAABAH" title="PyCharm"  alt="PyCharm" width="40" height="40"/>&nbsp;
-  <img src="" title=""  alt="" width="40" height="40"/>&nbsp;
-  <img src="" title=""  alt="" width="40" height="40"/>&nbsp;
-  <img src="" title=""  alt="" width="40" height="40"/>&nbsp;
-  <img src="" title=""  alt="" width="40" height="40"/>&nbsp;
-  <img src="" title=""  alt="" width="40" height="40"/>&nbsp;
-</p>
-
 
 <img src="https://komarev.com/ghpvc/?username=SubjectSp1rit&style=flat-square&color=blue" alt=""/>
 <!--
