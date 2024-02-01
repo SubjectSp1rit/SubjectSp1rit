@@ -47,8 +47,7 @@ Fullstack developer from Russia
 </p>
 
 <h1>Stats:</h1>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubjectSp1rit&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubjectSp1rit)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://komarev.com/ghpvc/?username=SubjectSp1rit&style=flat-square&color=blue" alt=""/>
 <!--
