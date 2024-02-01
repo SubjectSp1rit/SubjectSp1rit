@@ -12,7 +12,7 @@
 
 <h2>About me:</h2>
 Fullstack developer from Russia 
-My own site: https://potyakin.ru
+<br>My own site: https://potyakin.ru
 <p><strong>Education: </strong>HSE FCS SE <small>'27</small> (Higher School of Economics, Faculty of Computer Science, Software Engineering</p>
 
 <img src="https://komarev.com/ghpvc/?username=SubjectSp1rit&style=flat-square&color=blue" alt=""/>
