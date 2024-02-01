@@ -2,6 +2,7 @@
 <div align="center"><p>Contacts</p></div>
 <div id="badges">
   <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt=""/>
+  <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt=""/>
 </div>
 <!--
 **SubjectSp1rit/SubjectSp1rit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
