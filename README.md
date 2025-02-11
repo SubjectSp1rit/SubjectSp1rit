@@ -1,3 +1,5 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubjectSp1rit)
+
 <div align="center"><h2>Contacts</h2></div>
 <div id="badges" align="center">
   <a href="https://t.me/SubjectSpirit">
