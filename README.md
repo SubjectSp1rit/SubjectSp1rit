@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubjectSp1rit&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubjectSp1rit&layout=compact&theme=tokyonight)
 
 <div align="center"><h2>Contacts</h2></div>
 <div id="badges" align="center">
