@@ -1,5 +1,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubjectSp1rit&layout=compact&theme=dark&count_private=true&show_icons=true)
 
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/-UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)
+
+
 <div align="center"><h2>Contacts</h2></div>
 <div id="badges" align="center">
   <a href="https://t.me/SubjectSpirit">
