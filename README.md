@@ -6,6 +6,9 @@
   <a href="https://vk.com/subjectsp1rit">
     <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="vk: subjectsp1rit"/>
   </a>
+  <a href="https://www.linkedin.com/in/%D0%B0%D1%80%D1%81%D0%B5%D0%BD%D0%B8%D0%B9-%D0%BF%D0%BE%D1%82%D1%8F%D0%BA%D0%B8%D0%BD-b2b275247/">
+    <img src="https://img.shields.io/badge/%40-Linkedin-blue" alt="linkedin"/>
+  </a>
 </div>
 
 ---
