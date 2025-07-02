@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/CZ_JmvSRHxIAAAAM/mandalorian-the-mandalorian.gif" alt="">
   <h1>Hello there! 👋</h1>
-  
 </div>
 
 ---
