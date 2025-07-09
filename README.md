@@ -15,7 +15,6 @@ iOS Developer from Russia
 
 <h2 align="center">🛠️ Tech stack</h2>
 <br>
-
 <table align="center" width="90%">
   <tr>
     <td align="center" width="180px"><b>Lang</b></td>
@@ -32,6 +31,8 @@ iOS Developer from Russia
       <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
       <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
       <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+      <img src="https://img.shields.io/badge/SwiftUI-blue?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+      <img src="https://shields.io/badge/UIKit-blue?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
     </td>
   </tr>
   <tr>
