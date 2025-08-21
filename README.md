@@ -7,10 +7,10 @@
 ### 👨‍💻 About me
 iOS Developer from Russia
 - 🎓 <a href="https://www.hse.ru/ba/se/">Education: HSE FCS SE '27 (Higher School of Economics, Faculty of Computer Science, Software Engineering)</a>
+- 🔥 <a href="https://yandex.ru/yaintern/schools/mobile">Graduate of Yandex Summer School on iOS Mobile Development</a>
 - 🥇 <a href="https://disk.yandex.ru/i/nZcnXiNk_p4kdA">Winner of the VK Education & FCS Summer School in ML/DL. Project: "Recommender System for HSE Minors"</a>
 - 🐍 <a href="https://disk.yandex.ru/i/v-ocxAljjZ_5aw">Graduate of Yandex.Lyceum, specialized in Industrial Software Development and Fundamentals of Python Programming</a>
 - 🥇 <a href="https://disk.yandex.ru/i/2ATSlh11pIh_dg">Winner of the CodeRun Boost Challenge - 10/71 Swift && 45/2700 General competition</a>
-- 🔥 <a href="https://yandex.ru/yaintern/schools/mobile">Currently participating in the Yandex Summer School on iOS Mobile Development</a>
 
 ---
 
